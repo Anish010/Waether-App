@@ -21,7 +21,6 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 ### Screenshot
 
 ![Dekstop Design preview for Weather App](./screenshots/desktop.png)
-![Mobile Design preview for Weather App](./screenshots/mobile.png)
 
 ### Link
 
