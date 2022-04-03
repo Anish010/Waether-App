@@ -1,5 +1,7 @@
 # WEATHER APP
 
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -7,6 +9,8 @@
   - [Screenshot](#screenshot)
   - [Link](#Link)
   - [Technical Skills](#technical-skills)
+  - [Frameworks](#frameworks)
+  - [Tools](#tools)
   - [Acknowledgements](#acknowledgements)
 - [Author](#author)
   - [Connect With Me](#connect-with-me)
@@ -34,14 +38,16 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 </br>
+### Frameworks
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </br>
+### Tools
 
-![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=weather-app-sigma-pied)
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=weather-app-sigma-pied&style=for-the-badge)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
