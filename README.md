@@ -56,7 +56,7 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 <a href="https://www.linkedin.com/in/anish-kumar-mohanty-68a019216/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/anish101/main/images/linkedin.svg" alt="Anish | LinkedIn" width="21px"/></a>
 </br>
 <a href="https://www.instagram.com/anish.mohanty_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Anish | Instagram" width="21px"/></a>
-
+</br>
 ### GitHub Stats
 
 [![Anish's github stats](https://github-readme-stats.vercel.app/api?username=Anish010&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Anish010)
