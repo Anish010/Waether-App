@@ -1,7 +1,5 @@
 # WEATHER APP
 
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ## Table of Contents
 
 - [Overview](#overview)
