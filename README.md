@@ -46,8 +46,8 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 ### Tools
 
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=weather-app-sigma-pied&style=for-the-badge)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032&style=for-the-badge)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Acknowledgements
 
@@ -61,6 +61,7 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 
 <a href="https://www.linkedin.com/in/anish-kumar-mohanty-68a019216/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anish | LinkedIn" width="160px"/></a>
 <a href="https://www.instagram.com/in/anish.mohanty_/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Anish | Instagram" width="165px" height="40px"/></a>
+<a href="https://leetcode.com/anish101/"><img align="left" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fanish101&logo=leetcode&logoColor=yellow" alt="Anish | Leetcode" width="165px" height="40px"/></a>
 </br>
 </br>
 ### GitHub Stats
