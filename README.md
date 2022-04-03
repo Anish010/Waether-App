@@ -17,17 +17,17 @@
 
 It shows weather data, such as temperature, humidity, pressure, condition, speed of wind, country and sunset timing, of the city searched by the user.
 
-### 📷 Screenshot
+### Screenshot
 
-![Dekstop Design preview for Weather App](./images/desktop.png)
-![Mobile Design preview for Weather App](./images/mobile.png)
+![Dekstop Design preview for Weather App](./screenshots/desktop.png)
+![Mobile Design preview for Weather App](./screenshots/mobile.png)
 
-### 🔗 Link
+### Link
 
 - Solution URL : []
 - Live Site URL : []
 
-### 💼 Technical Skills
+### Technical Skills
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,7 +45,7 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-### 🙏Acknowledgements
+### Acknowledgements
 
 - [API](https://openweathermap.org/current#name)
 - [Icons](https://erikflowers.github.io/weather-icons/)
@@ -56,7 +56,7 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 <a href="https://www.linkedin.com/in/anish-kumar-mohanty-68a019216/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/anish101/main/images/linkedin.svg" alt="Anish | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/anish.mohanty_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Anish | Instagram" width="21px"/></a>
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 [![Anish's github stats](https://github-readme-stats.vercel.app/api?username=Anish010&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Anish010)
 
