@@ -59,8 +59,8 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 
 ### Connect With Me
 
-<a href="https://www.linkedin.com/in/anish-kumar-mohanty-68a019216/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anish | LinkedIn" width="160px" height="35px"/></a>
-<a href="https://www.instagram.com/in/anish.mohanty_/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Anish | Instagram" width="165px" height="35px"/></a>
+<a href="https://www.linkedin.com/in/anish-kumar-mohanty-68a019216/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anish | LinkedIn" width="155px" height="35px"/></a>
+<a href="https://www.instagram.com/in/anish.mohanty_/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Anish | Instagram" width="160px" height="35px"/></a>
 <a href="https://leetcode.com/anish101/"><img align="left" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fanish101&logo=leetcode&logoColor=yellow" alt="Anish | Leetcode" width="185px" height="35px"/></a>
 </br>
 </br>
