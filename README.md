@@ -29,7 +29,7 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 ### Link
 
 - Solution URL : [https://github.com/Anish010/Weather-App]
-- Live Site URL : [https://weather-app-sigma-pied.vercel.app]
+- Live Site URL : [https://weather-check-zeta.vercel.app]
 
 ### Technical Skills
 
