@@ -7,7 +7,7 @@
   - [Screenshot](#screenshot)
   - [Link](#Link)
   - [Technical Skills](#technical-skills)
-  - [Frameworks, Platforms, Libraries](#Frameworks,-Platforms,-Libraries)
+  - [Frameworks, Platforms, Libraries](#frameworks,-platforms,-libraries)
   - [Tools](#tools)
   - [IDEs/Editors](#ides/editors)
   - [Acknowledgements](#acknowledgements)
