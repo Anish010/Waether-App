@@ -182,3 +182,25 @@ body {
   margin-top: -150px;
   margin-bottom: 50px;
 }
+
+@media (max-width: 730px) 
+{
+  .widget{
+    height: 500px;
+    width: 410px;
+  }
+
+  .widget .date {
+    font-size : 18px;
+  }
+
+  .widget .extra-temp {
+    grid-template-columns: repeat(2, 1fr);
+    font-size: 90px;
+  }
+  
+  .widget .extra-temp p {
+    font-size: 20px;
+    font-weight: 600;
+  }
+}
