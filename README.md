@@ -25,8 +25,8 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 
 ### Link
 
-- Solution URL : []
-- Live Site URL : []
+- Solution URL : [https://github.com/Anish010/Weather-App]
+- Live Site URL : [https://weather-app-sigma-pied.vercel.app]
 
 ### Technical Skills
 
