@@ -9,6 +9,7 @@
   - [Technical Skills](#technical-skills)
   - [Frameworks, Platforms, Libraries](#frameworks,-platforms,-libraries)
   - [Tools](#tools)
+  - [Browsers](#browsers)
   - [IDEs/Editors](#ides/editors)
   - [Acknowledgements](#acknowledgements)
 - [Author](#author)
@@ -49,6 +50,14 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=weather-app-sigma-pied&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</br>
+
+### Browsers
+
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 </br>
 
 ### IDEs/Editors
