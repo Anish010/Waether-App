@@ -7,7 +7,7 @@
   - [Screenshot](#screenshot)
   - [Link](#Link)
   - [Technical Skills](#technical-skills)
-  - [Frameworks](#frameworks)
+  - [Frameworks, Platforms, Libraries](#Frameworks,-Platforms,-Libraries)
   - [Tools](#tools)
   - [IDEs/Editors](#ides/editors)
   - [Acknowledgements](#acknowledgements)
@@ -37,7 +37,7 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </br>
 
-### Frameworks
+### Frameworks, Platforms, Libraries
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
