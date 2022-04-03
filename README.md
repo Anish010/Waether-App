@@ -57,7 +57,7 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 ### Connect With Me
 
 <a href="https://www.linkedin.com/in/anish-kumar-mohanty-68a019216/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anish | LinkedIn" width="160px"/></a>
-<a href="https://www.instagram.com/in/anish.mohanty_/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Anish | Instagram" width="165px" height="60px"/></a>
+<a href="https://www.instagram.com/in/anish.mohanty_/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Anish | Instagram" width="165px" height="40px"/></a>
 </br>
 </br>
 ### GitHub Stats
