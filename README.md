@@ -46,8 +46,8 @@ It shows weather data, such as temperature, humidity, pressure, condition, speed
 ### Tools
 
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=weather-app-sigma-pied&style=for-the-badge)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032&style=for-the-badge)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717&style=for-the-badge)
 
 ### Acknowledgements
 
