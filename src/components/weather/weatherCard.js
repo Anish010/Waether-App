@@ -46,7 +46,7 @@ const WeatherCard = ({ tempInfo }) => {
       <>
           <div className="widget">
               <div className="weatherIcon">
-                  <i className={"wi wi-day-sunny"}></i>
+                  <i className={`wi ${weatherState}`}></i>
               </div>
               <div className="weatherInfo">
                   <div className="temperature">
@@ -65,7 +65,7 @@ const WeatherCard = ({ tempInfo }) => {
                   <div className="temp-info-minmax">
                       <div className="two-sided-section">
                           <p>
-                              <i className={`wi ${weatherState}`}></i>
+                              <i className={"wi wi-sunset"}></i>
                           </p>
                           <p className="extra-info-leftside">
                               {timeStr} P.M.<br/>
@@ -74,7 +74,7 @@ const WeatherCard = ({ tempInfo }) => {
                       </div>
                       <div className="two-sided-section">
                           <p>
-                              <i className={`wi ${weatherState}`}></i>
+                              <i className={"wi wi-humidity"}></i>
                           </p>
                           <p className="extra-info-leftside">
                               {humidity}<br />
@@ -87,7 +87,7 @@ const WeatherCard = ({ tempInfo }) => {
                       
                        <div className="two-sided-section">
                           <p>
-                              <i className={`wi ${weatherState}`}></i>
+                              <i className={"wi wi-rain"}></i>
                           </p>
                           <p className="extra-info-leftside">
                               {pressure}<br />
@@ -96,7 +96,7 @@ const WeatherCard = ({ tempInfo }) => {
                       </div>
                        <div className="two-sided-section">
                           <p>
-                              <i className={`wi ${weatherState}`}></i>
+                              <i className={"wi wi-strong-wind"}></i>
                           </p>
                           <p className="extra-info-leftside">
                               {speed}<br/>Speed<br />
