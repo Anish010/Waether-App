@@ -22,6 +22,8 @@
 
 It shows weather data, such as temperature, humidity, pressure, condition, speed of wind, country and sunset timing, of the city searched by the user.
 
+The Designing part is inspired from a public source. It's not original.
+
 ### Screenshot
 
 ![Dekstop Design preview for Weather App](./screenshots/desktop.png)
